@@ -98,7 +98,6 @@ st.title("L'électricité française est-elle de moins en moins carbonée ?")
 st.caption("Source : RTE, éCO2mix régional consolidé et définitif (ODRÉ / data.gouv.fr), "
            "Licence Ouverte 2.0.")
 
-st.header("1. Accroche")
 st.markdown("**Un kWh n'a pas le même impact carbone selon la façon dont il est produit.** "
             "Électrifier les transports ou le chauffage n'aide le climat que si l'électricité "
             "est peu carbonée.")
