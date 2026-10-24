@@ -1,0 +1,4 @@
+data/eco2mix.csv
+data/*.part
+__pycache__/
+.venv/
